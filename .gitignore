@@ -42,3 +42,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Content of the docs is intended for the sole developer (me)
+docs
